@@ -222,7 +222,7 @@ let max = api.kittens.delete(2);
 
 ```json
 {
-  "id": 2,
+  "id": 1,
   "deleted" : ":("
 }
 ```
